@@ -18,9 +18,8 @@ Additional description about the project and its features.
 
 👤 **Zeenat Lawal**
 
-- GitHub: [@githubhandle](https://github.com/ZeenatLawal)
-- Twitter: [@twitterhandle](https://twitter.com/lawal_zeenat)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/zeenat-lawal-665872120)
+- GitHub: [@ZeenatLawal](https://github.com/ZeenatLawal)
+
 
 
 ## 🤝 Contributing
